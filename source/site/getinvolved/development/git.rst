@@ -106,7 +106,7 @@ that's where we start off and we don't want to be starting with an old version.
   git pull
 
 We do not want to work on the master branch. This one is reserved for being in
-sync with the status quo of the source code. Therefore we create a new branch,
+sync with the statu quo of the source code. Therefore we create a new branch,
 starting from the current state of master.
 
 .. code::
